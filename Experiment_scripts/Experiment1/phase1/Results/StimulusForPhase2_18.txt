@@ -1,0 +1,2 @@
+SubNo WhiteState BlackState
+18 0.5186 0.4984
