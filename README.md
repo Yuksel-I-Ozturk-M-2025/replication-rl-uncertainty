@@ -1,0 +1,2 @@
+# Yuksel-I.-Ozturk-M.-2025-.-Reinforcement-Learning-Under-Uncertainty-A-Replication-Study
+This repository contains the code, data, and results of a replication study based on Ez-zizi et al. (2023). The study explores how human learning behavior adapts under perceptual (state) and reward uncertainty, using reinforcement learning models. All simulations were reproduced using the original data and code.
